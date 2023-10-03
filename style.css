@@ -259,4 +259,13 @@
     .volume-bar {
         display: none;
     }
+    .audio-picture {
+        height: 335px;
+    }
+    .more-bar {
+        border-radius: 0 0 10px 10px
+    }
+    .top-bar {
+        border-radius: 10px 10px 0 0;
+    }
 }
